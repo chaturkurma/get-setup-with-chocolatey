@@ -90,5 +90,4 @@ Alternatively, each tool can be installed in the traditional manner. Just go to 
 Configure Git distributed version control system
 
 - See [Git Started With Windows](https://github.com/denisecase/git-started-windows)
-one
-one
+
